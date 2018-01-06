@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{!! app()->getLocale() !!}">
     <head>
         <meta name="description" content="{!! $page_desc or __('defaults.page_desc') !!}">
         <title>{!! isset($page_title) ? $page_title.' | App' : 'App' !!}</title>
