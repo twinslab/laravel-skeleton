@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "twinslab/laravel-skeleton",
+    "description": "A Laravel skeleton application to kickstart a new website.",
+    "keywords": ["skeleton", "laravel"],
     "license": "MIT",
     "type": "project",
     "require": {
