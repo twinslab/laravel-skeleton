@@ -2,7 +2,8 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
+use Mail, Session;
+use App\Http\Requests\SubmitContactFormRequest;
 
 class PagesController extends Controller
 {
