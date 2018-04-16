@@ -21,7 +21,12 @@ $ php artisan key:generate
 $ rm -rf .git
 ```
 
-Optionally: `$ php artisan app:name YourNamespaceHere`
+Optionally:
+
+``` bash
+$ php artisan app:name YourNamespaceHere
+$ git init
+```
 
 ## License
 
